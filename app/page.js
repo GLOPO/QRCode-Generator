@@ -5,7 +5,7 @@ import Image from 'next/image'
 const page = () => {
   return (
     <main className='container bg-[#d6e2f0] h-screen w-full max-w-[3000px] flex items-center justify-center'>
-      <section className='bg-[#ffffff] flex items-center justify-center text-center p-1 flex-col w-[80%] md:w-1/3 lg:w-1/3 mx-auto rounded-2xl'>
+      <section className='bg-[#ffffff] flex items-center justify-center text-center p-2 flex-col w-[80%] md:w-1/3 lg:w-1/4 mx-auto rounded-2xl'>
         <div className='rounded-2xl'>
           <Image alt='' src={code} className='w-fit rounded-2xl'/>
         </div>
