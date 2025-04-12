@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Overview
 
-## Getting Started
+Having learnt Next.js and Tailwind CSS I dont think I can build a project using vanilla ever again
 
-First, run the development server:
+As I remincse my frontend journey and discover some loopholes or forgotten holes in my memory I dedcided to refresh by starting again by taking Frontendmentor.io learning path
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This is a simple project (QR code generator) that requires only HTML and CSS with no single atom of JavaScript but like I said never going back
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I am neither installing any dependencies not configuring my talwind since the style guide for this project is very minimal
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Join me as I code.❤️😍👨‍💻👩‍💻🧑‍💻
+.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This Project took me less than 1:30mins to complete
+My advise to everyone out there is to keep on practicing
+I completely forgot hot to integrate my TailwindCSS 😳🤔😪, like I noted earlier I am using Next.js
 
-## Learn More
+## Screenshot
+![Desktop Version](image.png)
+![Mobile Version](image-1.png)
 
-To learn more about Next.js, take a look at the following resources:
+### Built with
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-View extension
+- [Next.js](https://nextjs.org/) - React framework
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### What I learned
+Practice not only makes erfect but also shows you area of improvement till you are perfect.
